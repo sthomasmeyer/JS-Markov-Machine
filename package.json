@@ -1,0 +1,7 @@
+{
+  "name" : "markov-machine",
+  "description" : "A Markov Machine emits output of a Markov Chain. A Markov Chain is a chain of possible outcomes, given a particular 'state'.",
+  "author" : "Seth Thomasmeyer",
+  "main" : "markov.js",
+  "version" : "0.0.1"
+}
